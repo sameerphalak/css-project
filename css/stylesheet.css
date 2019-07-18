@@ -1,0 +1,646 @@
+/* Main div container */
+.container-div {
+
+    width: 960px;
+    margin: 75px auto 0px auto;
+    background-color: #ffffff;
+    box-shadow: 5px 5px 5px #444;    
+}
+
+/* Nav bar */
+nav {
+
+    background-color: #ffffff;
+    width: 960px;
+    text-align: center;
+    padding: 10px 0px 12px 0px;
+}
+
+/* Nav bar links */
+.links-nav-a {
+
+    margin: 25px;
+    font-size: 12pt;
+    text-decoration: none;
+    color: #602E8B;
+    font-weight: bold;
+}
+
+/* Nav bar links hover */
+.links-nav-a:hover {
+
+    color: #959bd1;
+    text-decoration: underline;
+}
+
+/* Footer */
+footer {
+
+    background-color: #602e8b;
+    width: 960px;
+}
+
+/* Footer text*/
+.footer-p {
+
+    padding: 4px 0px 25px 3px;
+    color: #ffffff;
+}
+
+/* -------------------------------------------INDEX.HTML----------------------------------------------- */
+/* INDEX.HTML */
+/* Body */
+.body-index {
+
+    background-color: #c2c5d6;
+    font-family: Helvetica, Arial, sans-serif;
+    color: #444;
+}
+
+/* INDEX.HTML */
+/* Main content section */
+.main-content-section-index {
+
+    width: 960px;
+}
+
+/* INDEX.HTML */
+/* Call us text */
+.call-us-h2-index {
+
+    text-align: center;
+    color: #9E9EE3;
+    padding: 0px 0px 10px 0px;
+}
+
+/* INDEX.HTML */
+/* There's a Landon just for you... */
+.text-header-h1-index {
+
+    color: #602E8B;
+    font-size: 25pt;
+    margin: 0px 0px 10px 35px;
+}
+
+/* INDEX.HTML */
+/* Places container for text and images */
+.places-container-section-index {
+
+    margin: 0px 60px 0px 60px;
+}
+
+/* INDEX.HTML */
+/* Places container for text */
+.places-text-container-article-index {
+
+    float: left;
+    width: 510px;
+    margin: 0px 0px 20px 0px;
+}
+
+/* INDEX.HTML */
+/* Places h3 header */
+.places-name-h3-index {
+
+    margin: 10px 0px 0px 10px;
+}
+
+/* INDEX.HTML */
+/* Places text */
+.places-text-p-index {
+
+
+}
+
+/* INDEX.HTML */
+/* Places image container */
+.places-image-container-aside-index {
+
+    float: right;
+}
+
+/* INDEX.HTML */
+/* Places image */
+.places-image-container-aside-index img {
+
+    margin: 25px 0px 0px 0px;
+}
+
+/* INDEX.HTML */
+/* Horizontal rule */
+.hr-index {
+
+    width: 888px;
+    margin: 0px 0px 0px 51px;
+}
+
+/* INDEX.HTML */
+/* Customers saying text container */
+.customers-container-section-index {
+
+    margin: 30px 15px 0px 50px;
+}
+
+/* INDEX.HTML */
+/* Customers saying h3 header */
+.customers-saying-h3-index {
+
+    color: #602E8B;
+    font-size: 16pt;
+}
+
+/* INDEX.HTML */
+/* Customers saying text */
+.customers-saying-p-index {
+
+    font-size: 11pt;
+}
+
+/* -------------------------------------------ROOM-SERVICE.HTML----------------------------------------------- */
+/* ROOM-SERVICE.HTML */
+/* Body */
+.body-room-service {
+
+    background-image: url(../images/table-setting.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: #ffffff;
+    font-family: Helvetica, Arial, sans-serif;
+    color: #444;
+}
+
+/* ROOM-SERVICE.HTML */
+/* Main content section */
+.main-content-section-room-service {
+
+    width: 960px;
+}
+
+/* ROOM-SERVICE.HTML */
+/* Room Service */
+.text-header-h1-room-service {
+
+    color: #602E8B;
+    font-size: 25pt;
+    margin: 35px 0px 10px 70px;
+}
+
+/* ROOM-SERVICE.HTML */
+/* Room services container for text and images */
+.room-service-container-section-room-service {
+
+    margin: 0px 60px 0px 60px;
+    height: 675px;
+}
+
+/* ROOM-SERVICE.HTML */
+/* Room services container for text */
+.room-service-text-container-article-room-service {
+
+    float: left;
+    width: 530px;
+    margin: 0px 0px 20px 0px;
+}
+
+/* ROOM-SERVICE.HTML */
+/* Room services form */
+.room-service-text-container-article-room-service form {
+
+    font-size: 13pt;
+    padding: 12px 0px 0px 0px;
+    line-height: 1.9rem;
+}
+
+/* ROOM-SERVICE.HTML */
+/* Room services form submit button */
+.restaurant-form-submit-room-service {
+
+    margin: 10px 0px 0px 3px;
+    border-radius: 5px;
+}
+
+/* ROOM-SERVICE.HTML */
+/* Room services h3 header */
+.room-service-name-h3-room-service {
+
+    margin: 10px 0px 0px 10px;
+}
+
+/* ROOM-SERVICE.HTML */
+/* Room services text */
+.room-service-text-p-room-service {
+
+
+}
+
+/* ROOM-SERVICE.HTML */
+/* Room services text */
+.room-service-text-p-room-service span {
+
+    font-weight: bold;
+}
+
+/* ROOM-SERVICE.HTML */
+/* Room services li */
+.room-service-text-li-room-service {
+
+
+}
+
+/* ROOM-SERVICE.HTML */
+/* Room services li black text */
+.room-service-text-li-room-service span {
+
+    color: #9394E3;
+    font-weight: bold;
+    font-size: 15pt;
+}
+
+/* ROOM-SERVICE.HTML */
+/* Room services image container */
+.room-service-image-container-aside-room-service {
+
+    float: right;
+}
+
+/* ROOM-SERVICE.HTML */
+/* Room services image */
+.room-service-image-container-aside-room-service img {
+
+    margin: -45px 0px 0px 0px;
+    width: 95%;
+    height: 95%;
+    float: right;
+}
+
+/* -------------------------------------------SPECIALS.HTML----------------------------------------------- */
+/* SPECIALS.HTML */
+/* Body */
+.body-specials {
+
+    background-color: #c2c5d6;
+    font-family: Helvetica, Arial, sans-serif;
+    color: #444;
+}
+
+/* SPECIALS.HTML */
+/* Main content section */
+.main-content-section-specials {
+
+    width: 960px;
+    height: 1545px;
+}
+
+/* SPECIALS.HTML */
+/* Specials */
+.text-header-h1-specials {
+
+    color: #602E8B;
+    font-size: 25pt;
+    margin: 35px 0px 15px 65px;
+}
+
+/* SPECIALS.HTML */
+/* Places container for text and images */
+.places-container-section-specials {
+
+    margin: 0px 25px -10px 60px;
+}
+
+/* SPECIALS.HTML */
+/* Places container for text */
+.places-text-container-article-specials {
+
+    margin: 30px 0px 0px 0px;
+}
+
+/* SPECIALS.HTML */
+/* Places h3 header */
+.places-name-h3-specials {
+
+    margin: 10px 0px 0px 10px;
+}
+
+/* SPECIALS.HTML */
+/* Places h4 header */
+.places-name-h4-specials {
+
+    margin: 30px 0px 30px 0px;
+}
+
+/* SPECIALS.HTML */
+/* Places text */
+.places-text-p-specials {
+
+    
+}
+
+/* SPECIALS.HTML */
+/* Places text bold */
+.places-text-p-specials2 {
+
+    font-weight: bold;
+    font-size: 10pt;
+    margin: -15px 0px -5px 0px;
+}
+
+/* SPECIALS HTML */
+/* Places horizontal rule */
+.hr-specials {
+
+    margin: 0px -5px 0px 0px;
+}
+
+/* -------------------------------------------RESERVATIONS.HTML----------------------------------------------- */
+/* RESERVATIONS.HTML */
+/* Body */
+.body-reservations {
+
+    background-color: #c2c5d6;
+    font-family: Helvetica, Arial, sans-serif;
+    color: #444;
+}
+
+/* RESERVATIONS.HTML */
+/* Main content section */
+.main-content-section-reservations {
+
+    width: 960px;
+}
+
+/* RESERVATIONS.HTML */
+/* Article containing header, text and form */
+.reservations-article-reservations {
+
+    margin: 0px 60px 0px 60px; 
+}
+
+/* RESERVATIONS.HTML */
+/* Tell us when you'll be here! header */
+.tell-us-h2-reservations {
+
+    color: #9E9EE3;
+    padding: 20px 0px 10px 80px;
+    font-size: 21pt;
+}
+
+/* RESERVATIONS.HTML */
+/* Reservations body text */
+.reservations-text-p-reservations {
+
+    margin: 0px 0px 10px 0px;
+}
+
+/* RESERVATIONS.HTML */
+/* Reservations form */
+.reservations-article-reservations form {
+
+    line-height: 2.3rem;
+}
+
+/* RESERVATIONS.HTML */
+/* Reservations form detail p */
+.reservations-form-details-p-reservations {
+
+    margin: 0px 0px -10px 0px;
+}
+
+/* RESERVATIONS.HTML */
+/* Reservations form send button */
+.reservations-form-send-reservations {
+
+    border-radius: 5px;
+    margin: 0px 0px 35px 2px;
+}
+
+/* -------------------------------------------MEETINGS-AND-EVENTS.HTML----------------------------------------------- */
+/* MEETINGS-AND-EVENTS.HTML */
+/* Body */
+.body-meetings-and-events {
+
+    background-color: #c2c5d6;
+    font-family: Helvetica, Arial, sans-serif;
+    color: #444;
+}
+
+/* MEETINGS-AND-EVENTS.HTML */
+/* Main content section */
+.main-content-section-meetings-and-events {
+
+    width: 960px;
+    height: 1137px;
+}
+
+/* MEETINGS-AND-EVENTS.HTML */
+/* Meetings & Events header*/
+.text-header-h1-meetings-and-events {
+
+    color: #602E8B;
+    font-size: 27pt;
+    margin: 40px 0px 10px 65px;
+}
+
+/* MEETINGS-AND-EVENTS.HTML */
+/* Meetings & events container for text and images */
+.meetings-and-events-container-section-meetings-and-events {
+
+    margin: 0px 60px 0px 60px;
+}
+
+/* MEETINGS-AND-EVENTS.HTML */
+/* Meetings & events container for text */
+.meetings-and-events-text-container-article-meetings-and-events {
+
+    float: left;
+    width: 525px;
+    margin: 0px 0px 20px 0px;
+}
+
+/* MEETINGS-AND-EVENTS.HTML */
+/* Meetings & events h3 header */
+.meetings-and-events-name-h3-meetings-and-events {
+
+    font-size: 12pt;
+    margin: 25px 0px 30px 0px;
+}
+
+/* MEETINGS-AND-EVENTS.HTML */
+/* Meetings & events text */
+.meetings-and-events-text-p-meetings-and-events {
+
+    margin: 25px 0px 20px 0px;
+}
+
+/* MEETINGS-AND-EVENTS.HTML */
+/* Meetings & events li */
+.meetings-and-events-text-container-article-meetings-and-events li {
+
+    font-size: 13.5pt;
+}
+
+/* MEETINGS-AND-EVENTS.HTML */
+/* Meetings & events image container */
+.meetings-and-events-image-container-aside-meetings-and-events {
+
+    float: left;
+}
+
+/* MEETINGS-AND-EVENTS.HTML */
+/* Meetings & events image */
+.meetings-and-events-image-container-aside-meetings-and-events img {
+
+    margin: 75px 0px 0px 20px;
+}
+
+/* MEETINGS-AND-EVENTS.HTML */
+/* Meetings & events inventors image (not lining up with Paul's sample */
+.meetings-and-events-image-container-aside-meetings-and-events .inventors-meetings-and-events-image {
+
+    margin: 45px 0px 0px 20px;
+}
+
+
+/* MEETINGS-AND-EVENTS.HTML */
+/* Horizontal rule */
+.hr-meetings-and-events {
+
+    margin: 0px 0px 0px 0px;
+}
+
+/* -------------------------------------------CONTACT.HTML----------------------------------------------- */
+/* CONTACT.HTML */
+/* Body */
+.body-contact {
+
+    background-color: #c2c5d6;
+    font-family: Helvetica, Arial, sans-serif;
+    color: #444;
+}
+
+/* CONTACT.HTML */
+/* Main content section */
+.main-content-section-contact {
+
+    width: 960px;
+}
+
+/* CONTACT.HTML */
+/* Article containing header, text and form */
+.contact-article-contact {
+
+    margin: 0px 60px 0px 60px; 
+    width: 500px;
+}
+
+/* CONTACT.HTML */
+/* Contact header */
+.text-header-h1-contact {
+
+    color: #602E8B;
+    font-size: 28pt;
+    margin: 40px 0px 10px 0px;
+}
+
+/* CONTACT.HTML */
+/* Leave a Reply header */
+.leave-us-h2-contact {
+
+    color: #9E9EE3;
+    padding: 15px 0px 20px 155px;
+    font-size: 21pt;
+}
+
+/* CONTACT.HTML */
+/* Contact body text */
+.contact-text-p-contact {
+
+    margin: 0px 0px 8px 0px;
+    font-size: 14pt;
+}
+
+/* CONTACT.HTML */
+/* Contact form */
+.contact-article-contact form {
+
+    line-height: 2.2rem;
+    font-size: 14pt;
+}
+
+/* CONTACT.HTML */
+/* Contact form comment p */
+.contact-form-p-contact {
+
+    margin: 0px 0px 0px 0px;
+}
+
+/* CONTACT.HTML */
+/* Contact form send button */
+.contact-form-send-contact {
+
+    border-radius: 5px;
+    margin: 0px 0px 35px 2px;
+}
+
+/* -------------------------------------------NEWS.HTML----------------------------------------------- */
+/* NEWS.HTML */
+/* Body */
+.body-news {
+
+    background-color: #c2c5d6;
+    font-family: Helvetica, Arial, sans-serif;
+    color: #444;
+}
+
+/* NEWS.HTML */
+/* Main content section */
+.main-content-section-news {
+
+    width: 960px;
+    height: 1475px;
+}
+
+/* NEWS.HTML */
+/* News */
+.text-header-h1-news {
+
+    color: #602E8B;
+    font-size: 16pt;
+    margin: 60px 50px 35px 0px;
+}
+
+/* NEWS.HTML */
+/* Places container for text and images */
+.places-container-section-news {
+
+    margin: 0px 30px 0px 60px;
+}
+
+/* NEWS.HTML */
+/* Places container for text */
+.places-text-container-article-news {
+
+    margin: 0px 0px 0px 0px;
+}
+
+/* NEWS.HTML */
+/* Places text */
+.places-text-p-news {
+
+    
+}
+
+/* NEWS.HTML */
+/* Places container for text and images reduced margin */
+.places-container-section-news2 {
+
+    margin: -40px 45px 75px 50px;
+}
+
+/* NEWS.HTML */
+/* h1 header for winter wonderland with right margin increased */
+.text-header-h1-news2 {
+
+    color: #602E8B;
+    font-size: 16pt;
+    margin: 60px 200px 35px 0px;
+}
